@@ -1,7 +1,7 @@
 # TDT4173-Expected-Goals
 Repository of expected goals project in the course TDT4173 Machine Learning fall 2020
 
-The complete code for this project is in the Jupyter Notebook TDT4173_Project.ipynb.
+The complete code for this project is in the Jupyter Notebook TDT4173_Project.ipynb.<br>
 The file TDT4173_Project.pdf includes a completed run with visualizations, hyperparameter tuning, testing and results from this project.
 
 The data set used in the project is in the file Shots3_dataset.csv. The web scraping to get the data is done with the package understat
